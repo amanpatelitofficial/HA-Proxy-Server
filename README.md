@@ -4,7 +4,8 @@ HA-Proxy-Server Layer 4
 ![image](https://github.com/user-attachments/assets/92fb471b-7fa3-4027-b0a8-7a0166821d31)
 
 
-![image](https://github.com/user-attachments/assets/8d46762c-a2ba-4ca4-98bc-d09f1c8e9eb9)
+![image](https://github.com/user-attachments/assets/8aca7a4f-00cc-488f-b149-223dcc9297da)
+
 
 
 
