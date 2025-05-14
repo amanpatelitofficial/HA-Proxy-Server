@@ -10,7 +10,8 @@ HA-Proxy-Server Layer 4
 
 HA-Proxy-Server Layer 7 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/56868782-6776-4fb3-9f85-b75d15f08b71)
+
 
 
 ![image](https://github.com/user-attachments/assets/7b93b1a1-5756-455b-a3fd-88993e2e386b)
